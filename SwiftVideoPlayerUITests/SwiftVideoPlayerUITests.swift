@@ -3,7 +3,7 @@
 //  SwiftVideoPlayerUITests
 //
 //  Created by Eric Rosas on 4/11/17.
-//  Copyright © 2017 Eric Rosas. All rights reserved.
+//  Copyright © 2017 EmpireAppDesignz. All rights reserved.
 //
 
 import XCTest
